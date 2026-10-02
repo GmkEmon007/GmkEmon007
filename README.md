@@ -20,6 +20,14 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 
 ## 🚀 What I'm Working On
 
+### 🔬 SafeMind AI
+
+A research-oriented project exploring **privacy-conscious multimodal AI for mental well-being screening**.
+
+The project explores how machine learning can combine multiple signals while keeping privacy and responsible AI considerations in the development process.
+
+---
+
 ### 🧠 120 Days of AI/ML Mastery
 
 A public, structured journey covering the foundations and practical implementation of AI/ML.
@@ -43,14 +51,6 @@ An AI-powered shopping platform designed to help users make better purchasing de
 * Risk & trust analysis
 
 **Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Redis · AI/LLM APIs
-
----
-
-### 🔬 SafeMind AI
-
-A research-oriented project exploring **privacy-conscious multimodal AI for mental-wellbeing screening**.
-
-The project explores how machine learning can combine multiple signals while keeping privacy and responsible AI considerations in the development process.
 
 ---
 
@@ -94,8 +94,6 @@ The project explores how machine learning can combine multiple signals while kee
 | 🧠 **120 Days of AI/ML** | Structured ML learning, experimentation & implementation |
 | 🛒 **BuyWise**           | AI product intelligence & full-stack engineering         |
 | 🔬 **SafeMind AI**       | Multimodal AI & responsible AI research                  |
-| ❤️ **ECG Prediction**    | Machine learning for clinical prediction                 |
-| 📚 **RAG Systems**       | Retrieval-Augmented Generation & LLM applications        |
 | 🚁 **FireGut X**         | Computer vision, drone intelligence & AI automation      |
 
 ---
@@ -131,7 +129,7 @@ The project explores how machine learning can combine multiple signals while kee
   <a href="https://gmkemon.com">
     <img src="https://img.shields.io/badge/Portfolio-gmkemon.com-111111?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/gmkemon/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
