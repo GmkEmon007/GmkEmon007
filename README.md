@@ -1,16 +1,146 @@
-## Hi there 👋
+# Hi, I'm Emon 👋
 
-<!--
-**GmkEmon007/GmkEmon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer in Progress · Python · Computer Vision · NLP/RAG · FastAPI
 
-Here are some ideas to get you started:
+I'm **Golam Morshed Kibria Emon**, a Computer Science undergraduate focused on building practical **AI/ML systems**, intelligent applications, and production-ready software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focus on:
+
+* 🤖 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 🧠 NLP & RAG Systems
+* ⚡ AI APIs & Integration
+* 🐍 Python
+* 🚀 FastAPI & Backend Systems
+* 📊 Data Analysis & Experimentation
+
+> **Learn → Build → Evaluate → Ship → Repeat.**
+
+---
+
+## 🚀 What I'm Working On
+
+### 🧠 120 Days of AI/ML Mastery
+
+A public, structured journey covering the foundations and practical implementation of AI/ML.
+
+**Focus:** Python → Mathematics → Data → ML → Deep Learning → Computer Vision → NLP → LLMs → RAG → Deployment
+
+🔗 [Explore the repository](https://github.com/GmkEmon007/120-Days-of-AI-ML)
+
+---
+
+### 🛒 BuyWise — AI Shopping Intelligence
+
+An AI-powered shopping platform designed to help users make better purchasing decisions.
+
+**Concepts:**
+
+* AI shopping assistance
+* Purchase regret detection
+* Product comparison
+* Community intelligence
+* Risk & trust analysis
+
+**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Redis · AI/LLM APIs
+
+---
+
+### 🔬 SafeMind AI
+
+A research-oriented project exploring **privacy-conscious multimodal AI for mental-wellbeing screening**.
+
+The project explores how machine learning can combine multiple signals while keeping privacy and responsible AI considerations in the development process.
+
+---
+
+## 🧰 Tech Stack
+
+### AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+### AI Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Web Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+## 📌 Featured Work
+
+| Project                  | What it demonstrates                                     |
+| ------------------------ | -------------------------------------------------------- |
+| 🧠 **120 Days of AI/ML** | Structured ML learning, experimentation & implementation |
+| 🛒 **BuyWise**           | AI product intelligence & full-stack engineering         |
+| 🔬 **SafeMind AI**       | Multimodal AI & responsible AI research                  |
+| ❤️ **ECG Prediction**    | Machine learning for clinical prediction                 |
+| 📚 **RAG Systems**       | Retrieval-Augmented Generation & LLM applications        |
+| 🚁 **FireGut X**         | Computer vision, drone intelligence & AI automation      |
+
+---
+
+## 🎯 Current Goals
+
+```text
+2026
+│
+├── Build strong ML foundations
+├── Master Computer Vision
+├── Master NLP / RAG
+├── Build production AI applications
+├── Publish high-quality projects
+├── Contribute to open source
+└── Prepare for AI/ML research
+```
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GmkEmon007&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmkEmon007&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://gmkemon.com">
+    <img src="https://img.shields.io/badge/Portfolio-gmkemon.com-111111?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Currently learning
+
+**Machine Learning · Deep Learning · Computer Vision · NLP · RAG · LLMs · MLOps**
+
+> Building things that work is good.
+> **Understanding why they work is better.**
