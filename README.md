@@ -18,42 +18,6 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 
 ---
 
-## 🚀 What I'm Working On
-
-### 🔬 SafeMind AI
-
-A research-oriented project exploring **privacy-conscious multimodal AI for mental well-being screening**.
-
-The project explores how machine learning can combine multiple signals while keeping privacy and responsible AI considerations in the development process.
-
----
-
-### 🧠 120 Days of AI/ML Mastery
-
-A public, structured journey covering the foundations and practical implementation of AI/ML.
-
-**Focus:** Python → Mathematics → Data → ML → Deep Learning → Computer Vision → NLP → LLMs → RAG → Deployment
-
-🔗 [Explore the repository](https://github.com/GmkEmon007/120-Days-of-AI-ML)
-
----
-
-### 🛒 BuyWise — AI Shopping Intelligence
-
-An AI-powered shopping platform designed to help users make better purchasing decisions.
-
-**Concepts:**
-
-* AI shopping assistance
-* Purchase regret detection
-* Product comparison
-* Community intelligence
-* Risk & trust analysis
-
-**Stack:** Next.js · TypeScript · FastAPI · PostgreSQL · Redis · AI/LLM APIs
-
----
-
 ## 🧰 Tech Stack
 
 ### AI / Machine Learning
@@ -84,33 +48,6 @@ An AI-powered shopping platform designed to help users make better purchasing de
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
----
-
-## 📌 Featured Work
-
-| Project                  | What it demonstrates                                     |
-| ------------------------ | -------------------------------------------------------- |
-| 🧠 **120 Days of AI/ML** | Structured ML learning, experimentation & implementation |
-| 🛒 **BuyWise**           | AI product intelligence & full-stack engineering         |
-| 🔬 **SafeMind AI**       | Multimodal AI & responsible AI research                  |
-| 🚁 **FireGut X**         | Computer vision, drone intelligence & AI automation      |
-
----
-
-## 🎯 Current Goals
-
-```text
-2026
-│
-├── Build strong ML foundations
-├── Master Computer Vision
-├── Master NLP / RAG
-├── Build production AI applications
-├── Publish high-quality projects
-├── Contribute to open source
-└── Prepare for AI/ML research
-```
 
 ---
 
