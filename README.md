@@ -16,8 +16,6 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 
 > **Learn → Build → Evaluate → Ship → Repeat.**
 
----
-
 ## 🧰 Tech Stack
 
 ### AI / Machine Learning
@@ -49,16 +47,6 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GmkEmon007&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmkEmon007&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
