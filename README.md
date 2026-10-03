@@ -1,6 +1,6 @@
 # Hi, I'm Emon 👋
 
-### AI/ML Engineer in Progress · Python · Computer Vision · NLP/RAG · FastAPI
+### AI/ML Engineer · Python · Computer Vision · NLP/RAG · FastAPI
 
 I'm **Golam Morshed Kibria Emon**, a Computer Science undergraduate focused on building practical **AI/ML systems**, intelligent applications, and production-ready software.
 
