@@ -1,8 +1,8 @@
-# Hi, I'm Emon 
+# Hi, I'm **GMK Emon**
 
 ### AI/ML Engineer · Python · Computer Vision · NLP/RAG · FastAPI
 
-I'm **Golam Morshed Kibria Emon**, a Computer Science undergraduate focused on building practical **AI/ML systems**, intelligent applications, and production-ready software.
+A Computer Science undergraduate focused on building practical **AI/ML systems**, intelligent applications, and production-ready software.
 
 Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focus on:
 
@@ -45,5 +45,4 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 
 **Machine Learning · Deep Learning · Computer Vision · NLP · RAG · LLMs · MLOps**
 
-> Building things that work is good.
-> **Understanding why they work is better.**
+> Transitioning from execution to true understanding is exactly what elevates someone from a practitioner to a master of their craft
