@@ -38,7 +38,7 @@ Currently, I'm working toward becoming an **AI/ML Engineer**, with a strong focu
 
 ## Let's Connect
 
-<p align="center"> <a href="https://www.upwork.com/freelancers/~01cb4abc57d03ad804"> <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" /> </a> &emsp; &emsp; &emsp; <a href="https://gmkemon.com"> <img src="https://img.shields.io/badge/Portfolio-gmkemon.com-111111?style=for-the-badge" /> </a> &emsp; &emsp; &emsp; <a href="https://www.linkedin.com/in/gmkemon/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <!-- <a href="https://www.upwork.com/freelancers/~01cb4abc57d03ad804"> <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" /> </a> --> &emsp; &emsp; &emsp; <a href="https://gmkemon.com"> <img src="https://img.shields.io/badge/Portfolio-gmkemon.com-111111?style=for-the-badge" /> </a> &emsp; &emsp; &emsp; <a href="https://www.linkedin.com/in/gmkemon/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 
 ### ⚡ Currently learning
